@@ -1,2 +1,2 @@
 # Simple-Chatbot-Using-Python
-A python chatbot utilising ifstatements
+A python chatbot utilising if statements
